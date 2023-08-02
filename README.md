@@ -16,12 +16,14 @@ Waw:
 - recovery/stats ($5)
 ——————————————————
 Mw2 (2009):
--free unlocks/prestiges/unfreeze/rank resets (not derank)
+-free unlocks/prestiges/unfreeze
+/rank resets (not derank)
 
 -Rented modded lobby (XbOnline host menu, destruction v1, matrix or a menu of your choice) $10 for 30 mins or $20 for 1 hour
 ——————————————————
 Mw3:
--**free unlocks/prestiges/unfreeze/rank resets (not derank)**
+-**free unlocks/prestiges/unfreeze
+/rank resets (not derank)**
 
 -Rented mod menu lobby (XbOnline host menu, destruction v1, matrix or a menu of your choice) $10 for 30 mins
 
@@ -29,7 +31,8 @@ Mw3:
 
 ——————————————————
 Bo1:
--free unlocks/prestiges/unfreeze/rank resets (not derank).
+-free unlocks/prestiges/unfreeze
+/rank resets (not derank).
 
 -Rented mod menu lobby (matrix or a menu of your choice) $10 for 30 mins.
 
