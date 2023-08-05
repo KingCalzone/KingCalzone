@@ -1,6 +1,7 @@
 👋 Hi, I’m @KingCalzone
   
 📫 How to reach me... Discord: KingCalzone
+
 💰 How to pay me... PayPal: KingCalzone
 
 WHAT I OFFER FOR RETAIL PLAYERS:
