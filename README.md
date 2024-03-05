@@ -6,6 +6,7 @@
 
 WHAT I OFFER FOR RETAIL PLAYERS:
 https://calzonesservices.rf.gd
+(absolutely discontinued)
 
 (FOR RGH):
 - KingCalzones RGH tool/utility, a multi mod menu downloader/injector/multi functional xbox 360 tool with thoughtfully built in extras!
