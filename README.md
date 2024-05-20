@@ -1,6 +1,7 @@
 ### Socials / donating:
-> 1. [Discord](https://discord.gg/S2w6hmKYfj) - My chill server.
-> 2. [PayPal](https://paypal.me/KingCalzone) - For donating <3!
+> [Discord](https://discord.gg/S2w6hmKYfj) - My chill server.
+>
+> [PayPal](https://paypal.me/KingCalzone) - For donating <3!
 ### 🎮 Consoles i own:
 > x2 rgh's (one fake XDK).
 > Exploitable PS4 (11.00).
