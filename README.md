@@ -1,16 +1,10 @@
-📫 How to contact me:
----
+## How to contact me: 
 Discord: KingCalzone
-
-💰 How to donate:
----
+## 💰 How to donate:
 PayPal: paypal.me/KingCalzone
-
 ## 🎮 Consoles i own:
 - XDKBuild RGH3 Jasper.
 - Original PS4 (11.00).
-
----
 
 just a hopeful, homemade developer trying to make his way about online! 
 <!---
