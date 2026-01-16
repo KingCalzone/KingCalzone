@@ -3,7 +3,7 @@
 https://discord.gg/5zcUsDwkuq
 >- Mostly xbox 360 "loot" (mods/apps/utils/forgotten stuff/tutorials)
 ### 🎮 Consoles i own:
->- Trinity Rgh1.2 on rgloader (RGL).
+>- Trinity Rgh1.2 on rgloader.
 >- PS5 but sadly its on latest fw.
 #
 just a hopeful, homemade developer trying to make his way about online! 
