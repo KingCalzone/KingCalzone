@@ -1,10 +1,10 @@
-### Socials / donating:
->- [Discord](https://discord.gg/S2w6hmKYfj) - My chill server.
->
->- [PayPal](https://paypal.me/KingCalzone) - For donating <3!
+### Socials:
+> Calzones Archive
+https://discord.gg/5zcUsDwkuq
+>- Mostly xbox 360 "loot" (mods/apps/utils/forgotten stuff/tutorials)
 ### 🎮 Consoles i own:
->- x2 rgh's (one fake XDK).
->- Exploitable PS4 (11.00).
+>- Trinity Rgh1.2 on rgloader (RGL).
+>- PS5 but sadly its on latest fw.
 #
 just a hopeful, homemade developer trying to make his way about online! 
 <!---
