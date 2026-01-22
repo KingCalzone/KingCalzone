@@ -7,7 +7,9 @@ https://discord.gg/5zcUsDwkuq
 >- PS5 latest fw + luac0re.
 >- PS5 pro latest fw + luac0re.
 #
-just a hopeful, homemade developer trying to make helpful things for both Windows or Linux users, MacOS may also happen! 
+just a hopeful, homemade developer trying to make helpful things for both Windows or Linux users.
+<br>
+<br>MacOS may also happen, i atleast plan to do this, **will need testing though due to limitations/issues!**
 <!---
 KingCalzone/KingCalzone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
